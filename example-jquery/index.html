@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Coba Pena (Jquery)</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+</head>
+<body>
+  <div id="pena"></div>
+
+  <script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@privyid/pena-jquery"></script>
+
+  <script type="text/javascript">
+    $(function () {
+      $('#pena').openDoc({
+        url      : 'YOUR_DOCUMENT_TOKEN',   // Document URL
+        lang     : 'en',                    // Set language, 'en' or 'id'
+        layout   : 'fit',                   // Set layout mode, 'fixed' or 'fit'
+        signature: {
+          x    : 100,
+          y    : 200,
+          page : 1,
+          fixed: false,
+        },
+        onAfterAction: (data) => {
+          // Do something after action (sign, review, etc) done
+          if (data.action === 'sign') {
+            window.alert('Signed')
+          }
+        },
+      })
+    })
+  </script>
+</body>
+</html>
