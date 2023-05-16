@@ -1,0 +1,13 @@
+{
+  "name": "pena-example",
+  "packageManager": "yarn@3.5.1",
+  "workspaces": [
+    "example-angular/",
+    "example-jquery/",
+    "example-nuxt-2/",
+    "example-react/",
+    "example-react-native/",
+    "example-svelte/",
+    "example-vanilla/"
+  ]
+}
