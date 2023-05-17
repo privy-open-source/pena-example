@@ -4561,13 +4561,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@privyid/pena-utils@npm:^0.1.0":
-  version: 0.1.0
-  resolution: "@privyid/pena-utils@npm:0.1.0"
-  checksum: 498a2b1761b47b77272a3ea1841f45461c0319559e533bf7ed6fcd2788339d12f7970377c97bba7e99273727e2c121f8b7fb2d0506e998866c72d651755caa09
-  languageName: node
-  linkType: hard
-
 "@privyid/pena-utils@npm:^0.3.0":
   version: 0.3.0
   resolution: "@privyid/pena-utils@npm:0.3.0"
@@ -4597,24 +4590,6 @@ __metadata:
   dependencies:
     "@privyid/pena-utils": ^0.3.0
   checksum: aac2743d518f0303f86aa99d4fcdab877f1ce4faeadd87fcfc4a048c83c481195d733eba42dd216b6ccaf7425e49ecbdfac4c5601c20f3bdeb3b8398fd011ed9
-  languageName: node
-  linkType: hard
-
-"@privyid/pena@npm:^0.0.1":
-  version: 0.0.1
-  resolution: "@privyid/pena@npm:0.0.1"
-  dependencies:
-    "@privyid/pena-utils": ^0.1.0
-  checksum: 7aef3fc17dc0733c95111ee068f4dc32fb9b1183e4291b6649cbc3844218f6d1f0097b9d57c48b86533487d13b09e5493bc81432f201aad47d8802e6ad50ba25
-  languageName: node
-  linkType: hard
-
-"@privyid/pena@npm:^0.1.0":
-  version: 0.1.0
-  resolution: "@privyid/pena@npm:0.1.0"
-  dependencies:
-    "@privyid/pena-utils": ^0.1.0
-  checksum: a7f6ef45646f9dfc465831fb87d3d4762a01e37456a63c818fc3df631f45b1af44fbcaea8fc1eb84d18fc98d30d4ece410beb0bc8a67f37dc6799fc6d8e0aadb
   languageName: node
   linkType: hard
 
@@ -8774,7 +8749,7 @@ __metadata:
     "@nuxtjs/eslint-config-typescript": ^11.0.0
     "@nuxtjs/eslint-module": ^3.1.0
     "@nuxtjs/stylelint-module": ^4.1.0
-    "@privyid/pena": ^0.1.0
+    "@privyid/pena": ^0.3.0
     "@privyid/pena-vue": ^0.1.1
     "@vue/test-utils": ^1.3.0
     babel-core: 7.0.0-bridge.0
@@ -11811,7 +11786,7 @@ __metadata:
     "@angular/platform-browser": ^15.1.0
     "@angular/platform-browser-dynamic": ^15.1.0
     "@angular/router": ^15.1.0
-    "@privyid/pena": ^0.0.1
+    "@privyid/pena": ^0.3.0
     "@privyid/pena-angular": ^0.1.0
     "@types/jasmine": ~4.3.0
     jasmine-core: ~4.5.0

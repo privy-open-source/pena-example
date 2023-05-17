@@ -2122,19 +2122,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@privyid/pena-utils@npm:^0.1.0":
-  version: 0.1.0
-  resolution: "@privyid/pena-utils@npm:0.1.0"
-  checksum: 498a2b1761b47b77272a3ea1841f45461c0319559e533bf7ed6fcd2788339d12f7970377c97bba7e99273727e2c121f8b7fb2d0506e998866c72d651755caa09
+"@privyid/pena-utils@npm:^0.3.0":
+  version: 0.3.0
+  resolution: "@privyid/pena-utils@npm:0.3.0"
+  checksum: 3631ffcb120389c15db8971f15be6044550c3eeac919689e384334223df0175a6d185aaf6a44e493e92b1de12ccda88a83146593efaa90792731131b1eef6d55
   languageName: node
   linkType: hard
 
-"@privyid/pena@npm:^0.0.1":
-  version: 0.0.1
-  resolution: "@privyid/pena@npm:0.0.1"
+"@privyid/pena@npm:^0.3.0":
+  version: 0.3.0
+  resolution: "@privyid/pena@npm:0.3.0"
   dependencies:
-    "@privyid/pena-utils": ^0.1.0
-  checksum: 7aef3fc17dc0733c95111ee068f4dc32fb9b1183e4291b6649cbc3844218f6d1f0097b9d57c48b86533487d13b09e5493bc81432f201aad47d8802e6ad50ba25
+    "@privyid/pena-utils": ^0.3.0
+  checksum: aac2743d518f0303f86aa99d4fcdab877f1ce4faeadd87fcfc4a048c83c481195d733eba42dd216b6ccaf7425e49ecbdfac4c5601c20f3bdeb3b8398fd011ed9
   languageName: node
   linkType: hard
 
@@ -4170,7 +4170,7 @@ __metadata:
     "@angular/platform-browser": ^15.1.0
     "@angular/platform-browser-dynamic": ^15.1.0
     "@angular/router": ^15.1.0
-    "@privyid/pena": ^0.0.1
+    "@privyid/pena": ^0.3.0
     "@privyid/pena-angular": ^0.1.0
     "@types/jasmine": ~4.3.0
     jasmine-core: ~4.5.0

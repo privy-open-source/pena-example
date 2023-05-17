@@ -21,7 +21,7 @@
     "*.**": "prettier --check --ignore-unknown"
   },
   "dependencies": {
-    "@privyid/pena": "^0.1.0",
+    "@privyid/pena": "^0.3.0",
     "@privyid/pena-vue": "^0.1.1",
     "core-js": "^3.25.3",
     "nuxt": "^2.15.8",
