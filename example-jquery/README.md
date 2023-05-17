@@ -1,4 +1,4 @@
-# Pena (Svelte) + Vite (Svelte)
+# Pena (jQuery) + Vite
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@
 npm install
 ```
 
-1. Open `src/App.svelte` and replace `YOUR_DOCUMENT_URL` with your actual document'url
+1. Open `index.html` and replace `YOUR_DOCUMENT_URL` with your actual document'url
 2. Run dev server
 
 ```bash

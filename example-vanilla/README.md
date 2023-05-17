@@ -1,4 +1,4 @@
-# Pena (Svelte) + Vite (Svelte)
+# Pena (Vanilla) + Vite (TS)
 
 ## Prerequisites
 
@@ -13,8 +13,8 @@
 npm install
 ```
 
-1. Open `src/App.svelte` and replace `YOUR_DOCUMENT_URL` with your actual document'url
-2. Run dev server
+2. Open `src/main.ts` and replace `YOUR_DOCUMENT_URL` with your actual document'url
+3. Run dev server
 
 ```bash
 npm run dev

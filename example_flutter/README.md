@@ -1,16 +1,23 @@
-# coba_flutter
+# Pena (Flutter) + Flutter
 
-A new Flutter project.
+## Prerequisites
 
-## Getting Started
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Android Emulator / IOS Emulator
 
-This project is a starting point for a Flutter application.
+## Running Local
 
-A few resources to get you started if this is your first Flutter project:
+1. Install deps
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Open `lib/main.dart` and replace `YOUR_DOCUMENT_URL` with your actual document'url
+2. Run dev server
+
+```bash
+flutter run
+```
+
+And select your device.
