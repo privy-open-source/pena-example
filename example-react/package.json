@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@privyid/pena": "^0.3.0",
-    "@privyid/pena-react": "^0.3.0",
+    "@privyid/pena": "^1.0.0",
+    "@privyid/pena-react": "^1.0.0",
     "normalize.css": "^8.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

@@ -19,7 +19,7 @@
     "vite": "^4.1.0"
   },
   "dependencies": {
-    "@privyid/pena": "0.3.0",
-    "@privyid/pena-svelte": "0.3.0"
+    "@privyid/pena": "1.0.0",
+    "@privyid/pena-svelte": "1.0.0"
   }
 }
