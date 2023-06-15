@@ -4,7 +4,6 @@ export default function App () {
   return (
     <Pena
       url="YOUR_DOCUMENT_URL"
-      privyId="AI7277"
       lang="en"
       layout="fit"
       signature={{

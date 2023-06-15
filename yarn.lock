@@ -4512,65 +4512,65 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@privyid/pena-angular@npm:^0.1.0":
-  version: 0.1.0
-  resolution: "@privyid/pena-angular@npm:0.1.0"
+"@privyid/pena-angular@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@privyid/pena-angular@npm:1.0.0"
   dependencies:
     tslib: ^2.3.0
   peerDependencies:
     "@angular/common": ^15.1.0
     "@angular/core": ^15.1.0
-    "@privyid/pena": ^0.0.1
-  checksum: c10e5694ae83f196a1dd0d71320ff27b25ce6d07e009f91f696558d767fa18694d24474c6b7a90f4a4fc5c2ef8e1844081167397a8ea60e8334e43f853832d5a
+    "@privyid/pena": "*"
+  checksum: 908632190330edb6bb73e06dbc1d8fa5e9ae7e56891298de367ce3399137be98c07db089c870ca98c69dc3838b84e7b637360ef944b6f94317cea0a1d3ca0b01
   languageName: node
   linkType: hard
 
-"@privyid/pena-react-native@npm:^0.3.0":
-  version: 0.3.0
-  resolution: "@privyid/pena-react-native@npm:0.3.0"
+"@privyid/pena-react-native@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@privyid/pena-react-native@npm:1.0.0"
   dependencies:
-    "@privyid/pena": ^0.3.0
-    "@privyid/pena-utils": ^0.3.0
+    "@privyid/pena": ^1.0.0
+    "@privyid/pena-utils": ^1.0.0
     react-native-url-polyfill: ^1.3.0
     react-native-webview: ^11.26.1
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: bb7d7853abc22443b986e5e6a19f844a9ee18ca5dd7ebdbec00026575cb0dde4068cb7f52d8243a1bd558149b08fff79b7e855751a23a5eabc5879f5f795cddb
+  checksum: b92d536277fc69603095d4a7f3021ab18b7f0c44eeabe602702a0c649f6256941b5ddaa2370592dae39bf1617ce6e9a5c95d9bdee12299e2007ecb0ae063ec65
   languageName: node
   linkType: hard
 
-"@privyid/pena-react@npm:^0.3.0":
-  version: 0.3.0
-  resolution: "@privyid/pena-react@npm:0.3.0"
+"@privyid/pena-react@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@privyid/pena-react@npm:1.0.0"
   peerDependencies:
     "@privyid/pena": "*"
     react: "*"
     react-dom: "*"
-  checksum: 1565717d66b49f293e34e7dfb7cea4c4405ca8155247684040bd9727cdcd88cb4cc3c099f9ea0c8df8b1b673373e9e51463a7efa5af67ae605d8687c74dc4f78
+  checksum: 151b56837be8b9e1c0aba6c40439580d50c2aabc63301b9aafc4981d979cf9fed32cb2c05ca7fec0d8de7dadf6456cf61c583f210df8a7243bdd6257a9ae7573
   languageName: node
   linkType: hard
 
-"@privyid/pena-svelte@npm:0.3.0":
-  version: 0.3.0
-  resolution: "@privyid/pena-svelte@npm:0.3.0"
+"@privyid/pena-svelte@npm:1.0.0":
+  version: 1.0.0
+  resolution: "@privyid/pena-svelte@npm:1.0.0"
   peerDependencies:
     "@privyid/pena": "*"
     svelte: "*"
-  checksum: 185b4571d9e93f15156a22ae541dd91b34ad1118e6be75bc9a4b5e88aaddfcea4a7108f22c2e6b4b688363b064884d03bbce416ed90259097a04eecfb7d597c7
+  checksum: 352cd518bbbf151d8db0e3fe4d3e2f2d9858830cba8f2d38350ce60fa4e952d95526a3d447f4e169cb8d39ed3ea3d43cd6ed813f83438330780cdfe7b0439cb4
   languageName: node
   linkType: hard
 
-"@privyid/pena-utils@npm:^0.3.0":
-  version: 0.3.0
-  resolution: "@privyid/pena-utils@npm:0.3.0"
-  checksum: 3631ffcb120389c15db8971f15be6044550c3eeac919689e384334223df0175a6d185aaf6a44e493e92b1de12ccda88a83146593efaa90792731131b1eef6d55
+"@privyid/pena-utils@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@privyid/pena-utils@npm:1.0.0"
+  checksum: 9eb7510716a065256dc5665bb70cd8272e6a7eb9dee6a63ae952c95f9cb86d197d9b2bfb72a4598ef2558e8f03f7f39f7bfcefffec86347bf3f4f9cc132dfb76
   languageName: node
   linkType: hard
 
-"@privyid/pena-vue@npm:^0.1.1":
-  version: 0.1.1
-  resolution: "@privyid/pena-vue@npm:0.1.1"
+"@privyid/pena-vue@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@privyid/pena-vue@npm:1.0.0"
   dependencies:
     vue-demi: ^0.13.11
   peerDependencies:
@@ -4580,16 +4580,14 @@ __metadata:
   peerDependenciesMeta:
     "@vue/composition-api":
       optional: true
-  checksum: ccf36ebbfe7febd943d62c46a784f1a864b40437a803238ac68840642b5ea0fd1dc4fcda2349094b8120e2f8759e3de1107f343b75be2ed84a982cfa533f5946
+  checksum: 7b3478f373ed91d78cdc11c004ade6e417b6fe2f346e56cc7483b58980f7969e3434e8f1e5bf33eb31590bbf4ad25968d86647d20df3fa24fd1279e583245250
   languageName: node
   linkType: hard
 
-"@privyid/pena@npm:0.3.0, @privyid/pena@npm:^0.3.0":
-  version: 0.3.0
-  resolution: "@privyid/pena@npm:0.3.0"
-  dependencies:
-    "@privyid/pena-utils": ^0.3.0
-  checksum: aac2743d518f0303f86aa99d4fcdab877f1ce4faeadd87fcfc4a048c83c481195d733eba42dd216b6ccaf7425e49ecbdfac4c5601c20f3bdeb3b8398fd011ed9
+"@privyid/pena@npm:1.0.0, @privyid/pena@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@privyid/pena@npm:1.0.0"
+  checksum: 21cf5fe3d324480bee5e170213aed25057575309b2f47384afaa7615dbadb69dfcbe8112d273abbb72f24a2fee6349a6939b20a664af52a247a4a569997e11a7
   languageName: node
   linkType: hard
 
@@ -8749,8 +8747,8 @@ __metadata:
     "@nuxtjs/eslint-config-typescript": ^11.0.0
     "@nuxtjs/eslint-module": ^3.1.0
     "@nuxtjs/stylelint-module": ^4.1.0
-    "@privyid/pena": ^0.3.0
-    "@privyid/pena-vue": ^0.1.1
+    "@privyid/pena": ^1.0.0
+    "@privyid/pena-vue": ^1.0.0
     "@vue/test-utils": ^1.3.0
     babel-core: 7.0.0-bridge.0
     babel-jest: ^29.1.2
@@ -8785,7 +8783,7 @@ __metadata:
   dependencies:
     "@babel/core": ^7.12.9
     "@expo/webpack-config": ^0.17.2
-    "@privyid/pena-react-native": ^0.3.0
+    "@privyid/pena-react-native": ^1.0.0
     "@types/react": ^18.0.30
     "@types/react-native": ^0.71.5
     expo: ~47.0.12
@@ -11786,8 +11784,8 @@ __metadata:
     "@angular/platform-browser": ^15.1.0
     "@angular/platform-browser-dynamic": ^15.1.0
     "@angular/router": ^15.1.0
-    "@privyid/pena": ^0.3.0
-    "@privyid/pena-angular": ^0.1.0
+    "@privyid/pena": ^1.0.0
+    "@privyid/pena-angular": ^1.0.0
     "@types/jasmine": ~4.3.0
     jasmine-core: ~4.5.0
     karma: ~6.4.0
@@ -11815,8 +11813,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "example-react@workspace:example-react"
   dependencies:
-    "@privyid/pena": ^0.3.0
-    "@privyid/pena-react": ^0.3.0
+    "@privyid/pena": ^1.0.0
+    "@privyid/pena-react": ^1.0.0
     "@types/react": ^18.0.28
     "@types/react-dom": ^18.0.11
     "@vitejs/plugin-react-swc": ^3.0.0
@@ -11832,8 +11830,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "example-svelte@workspace:example-svelte"
   dependencies:
-    "@privyid/pena": 0.3.0
-    "@privyid/pena-svelte": 0.3.0
+    "@privyid/pena": 1.0.0
+    "@privyid/pena-svelte": 1.0.0
     "@sveltejs/vite-plugin-svelte": ^2.0.2
     "@tsconfig/svelte": ^3.0.0
     svelte: ^3.55.1
@@ -11848,7 +11846,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "example-vanilla@workspace:example-vanilla"
   dependencies:
-    "@privyid/pena": ^0.3.0
+    "@privyid/pena": ^1.0.0
     typescript: ^4.9.3
     vite: ^4.2.0
   languageName: unknown

@@ -23,7 +23,6 @@ export default function App() {
       <SafeAreaView style={styles.container}>
         <Pena
           url="YOUR_DOCUMENT_URL"
-          privyId="AI7277"
           lang="id"
           signature={{
             x    : 100,
