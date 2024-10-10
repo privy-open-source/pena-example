@@ -4266,7 +4266,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nuxt/types@npm:^2.15.8":
+"@nuxt/types@npm:2.16.3":
   version: 2.16.3
   resolution: "@nuxt/types@npm:2.16.3"
   dependencies:
@@ -8743,7 +8743,7 @@ __metadata:
     "@babel/eslint-parser": ^7.19.1
     "@commitlint/cli": ^17.1.2
     "@commitlint/config-conventional": ^17.1.0
-    "@nuxt/types": ^2.15.8
+    "@nuxt/types": 2.16.3
     "@nuxt/typescript-build": ^3.0.0
     "@nuxtjs/eslint-config-typescript": ^11.0.0
     "@nuxtjs/eslint-module": ^3.1.0
