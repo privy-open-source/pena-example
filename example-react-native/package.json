@@ -15,7 +15,7 @@
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "react-native": "0.70.5",
+    "react-native": "0.76.0",
     "react-native-root-toast": "^3.4.1",
     "react-native-web": "~0.18.9",
     "react-native-webview": "^11.26.0",
@@ -24,7 +24,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@types/react": "^18.0.30",
-    "@types/react-native": "^0.71.5"
+    "@types/react-native": "^0.73.0"
   },
   "private": true
 }
